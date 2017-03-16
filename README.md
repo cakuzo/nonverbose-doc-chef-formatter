@@ -1,5 +1,5 @@
 # nonverbose-doc-chef-formatter
-===============================
+
 A formatter for [Chef](https://www.chef.io) which shrinks the default output to
 changes only.
 
