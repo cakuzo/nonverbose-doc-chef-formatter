@@ -2,8 +2,8 @@ require "chef/formatters/base"
 require "chef/config"
 
 class Chef
-  module Formatters
 
+  module Formatters
     # Formatter similar to RSpec's documentation formatter. Uses indentation to
     # show context but not verbose
     class NonVerboseDoc < Formatters::Base
